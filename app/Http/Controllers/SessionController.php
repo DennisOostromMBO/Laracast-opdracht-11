@@ -42,4 +42,3 @@ class SessionController extends Controller
     }
 }
 
-// mijn wachtwoord is "smeerkaas" lol
